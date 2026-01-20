@@ -1,3 +1,5 @@
-public class Motorcycle{}
+public class Motorcycle{
 
     public String color;
+}
+
